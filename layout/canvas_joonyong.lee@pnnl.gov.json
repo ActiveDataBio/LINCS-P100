@@ -3,7 +3,7 @@
   "id":1439930606488,
   "name":"LINCS-P100_joonyong.lee@pnnl.gov",
   "creationDate":1439930606488,
-  "lastModifiedDate":1439932289953,
+  "lastModifiedDate":1439938507732,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,6 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439932289953,
         "groupId":-1,
@@ -33,6 +32,30 @@
         "score":0.0,
         "data":"undefined;O75385;LINCS-P100;PNNL-Comp-Mass-Spec;master",
         "label":"ULK1",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":3,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1439938507732,
+        "groupId":-1,
+        "isUserData":true,
+        "x":943.0,
+        "y":659.0,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"undefined;P38919;LINCS-P100;PNNL-Comp-Mass-Spec;master",
+        "label":"EIF4A3",
         "badge":0,
         "sections":null,
         "listValues":null,
