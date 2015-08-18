@@ -3,7 +3,7 @@
   "id":1439930606488,
   "name":"LINCS-P100_joonyong.lee@pnnl.gov",
   "creationDate":1439930606488,
-  "lastModifiedDate":1439931426327,
+  "lastModifiedDate":1439932289953,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,13 +18,13 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":6,
+        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1439930970555,
+        "id":1439932289953,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":519.5999999999999,
+        "x":943.0,
+        "y":637.0,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -32,31 +32,7 @@
         },
         "score":0.0,
         "data":"undefined;O75385;LINCS-P100;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa:8408",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":5,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1439931426327,
-        "groupId":-1,
-        "isUserData":true,
-        "x":749.9779996773237,
-        "y":779.3999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"undefined;P51812;LINCS-P100;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa:6195",
+        "label":"ULK1",
         "badge":0,
         "sections":null,
         "listValues":null,
