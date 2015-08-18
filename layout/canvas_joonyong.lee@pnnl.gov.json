@@ -18,6 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439932289953,
         "groupId":-1,
@@ -45,7 +46,7 @@
         }
       },
       {
-        "@id":3,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439938507732,
         "groupId":-1,
